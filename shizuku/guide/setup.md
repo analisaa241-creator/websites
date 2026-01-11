@@ -1,4 +1,4 @@
-# User manual
+androididr manual
 
 [[toc]]
 
